@@ -32,6 +32,6 @@ thridparty：第三方库
 CMakeLists.txt
 autobuild.sh：自动生成脚本
 
-![](C:\Users\86183\AppData\Roaming\marktext\images\2023-08-24-09-51-15-image.png)
+![image](image1.png)
 
-![](C:\Users\86183\AppData\Roaming\marktext\images\2023-08-24-09-52-09-image.png)
+![image](image2.png)
